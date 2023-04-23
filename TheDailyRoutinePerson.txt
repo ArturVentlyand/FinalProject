@@ -1,0 +1,14 @@
+﻿07:00 AM - Wake up - 00:10:00
+07:10 AM - Morning training - 00:30:00
+07:40 AM - Shower - 00:20:00
+08:00 AM - Breakfast - 00:30:00
+09:00 AM - Walk - 00:40:00
+10:00 AM - Work - 04:00:00
+02:00 PM - Lunch - 00:30:00
+03:00 PM - Walk - 00:40:00
+04:00 PM - Watch TV - 00:40:00
+05:00 PM - Evening training - 00:30:00
+06:00 PM - Dinner - 00:30:00
+07:00 PM - Drum lesson - 01:00:00
+08:00 PM - Chill Time - 03:00:00
+11:00 PM - Sleep - 08:00:00
